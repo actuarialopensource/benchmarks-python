@@ -1,0 +1,7 @@
+actxps==1.0.1
+pymort==2.0.1
+PyYaml
+duckdb
+numpy
+fastexcel
+heavylight
