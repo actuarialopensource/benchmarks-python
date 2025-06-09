@@ -11,7 +11,7 @@
 		"ghcr.io/eitsupi/devcontainer-features/duckdb-cli:1": {},
 		"ghcr.io/dhoeric/features/act:1": {},
 		"ghcr.io/stuartleeks/dev-container-features/shell-history:0": {},
-		"ghcr.io/hspaans/devcontainer-features/pytest:1": {}
+		"ghcr.io/hspaans/devcontainer-features/pytest:2": {}
 	},
 	"customizations": {
 		"vscode": {
